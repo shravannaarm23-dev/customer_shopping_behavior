@@ -95,7 +95,7 @@ I build data projects that sit at the intersection of **domain knowledge and ana
 
 💼 **LinkedIn:** *https://www.linkedin.com/in/shravannv112/*
 
-📧 **Email:** *[shravan.naarm23@gmail.com]*
+📧 **Email:** *shravan.naarm23@gmail.com*
 
 ---
 
