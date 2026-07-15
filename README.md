@@ -93,7 +93,7 @@ I build data projects that sit at the intersection of **domain knowledge and ana
 
 🌐 **Portfolio:** [shravannaarm23-dev.github.io/github.io/](https://shravannaarm23-dev.github.io/github.io/)
 
-💼 **LinkedIn:** *[linkedin.com/in/shravannv112]*
+💼 **LinkedIn:** *[https://www.linkedin.com/in/shravannv112/]*
 
 📧 **Email:** *[shravan.naarm23@gmail.com]*
 
